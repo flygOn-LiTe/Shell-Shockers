@@ -1,16 +1,3 @@
-// ==UserScript==
-// @name        Health-Bar Mod | Shell Shockers | flygOn LiTe
-// @namespace    http://tampermonkey.net/
-// @version      1
-// @description  Health-Bar Mod by flygOn LiTe
-// @author       flygOn LiTe
-// @match        https://shellshock.io/*
-// @match        https://mathactivity.xyz/*
-// @match        https://mathdrills.life/*
-// @icon         https://www.berrywidgets.com/assets/health-bar.png
-// @grant        none
-// @license MIT
-// ==/UserScript==
 (function () {
   var style = document.createElement("link");
   style.rel = "stylesheet";
